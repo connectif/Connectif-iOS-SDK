@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ConnectifSDK",
-            url: "https://github.com/connectif/Connectif-iOS-SDK/releases/download/1.2.0/ConnectifSDK-1.2.0.xcframework.zip",
-            checksum: "642268cab8025055c60bd6cb6bf443b2f9e93c3601d57143ea9b62adbea8846e"
+            url: "https://github.com/connectif/Connectif-iOS-SDK/releases/download/1.3.0/ConnectifSDK-1.3.0.xcframework.zip",
+            checksum: "347c5373dd551b64ca2e2b35feacc18c49efb6fd9f3f50aef5d91e5320665e19"
         )
     ]
 )
